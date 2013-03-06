@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Controlo de versoes
+=======
+Controlo de versoes
+Git
+OpenUP
+>>>>>>> 8115f2a1a8ee4ca97b15dbbdc2b3cfa81fbc6ede
